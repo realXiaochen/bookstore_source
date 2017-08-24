@@ -1,15 +1,25 @@
 # Xiaochen's Bookstore
 
-## Tools: 
+Tools: 
   
-  Angular 2, Angular Material, Spring Boot, Spring Security, JPA, Heroku, etc.
+  - Angular 2
+  - Angular Material
+  - Spring Boot 
+  - Spring Security
+  - JPA
+  - Heroku
 
-## Features: 
+Features: 
   
-  register, login/out, search, shopping cart, checkout, payment.
+  - register
+  - login/out
+  - search 
+  - shopping cart
+  - checkout
+  - payment (fake)
   
-## Url:
+Url:
 
-  https://goo.gl/zk98u6
+  - https://goo.gl/zk98u6
 
   
