@@ -7,6 +7,8 @@ Tools:
   - Spring Boot 
   - Spring Security
   - JPA
+  - MySQL
+  - Redis
   - Heroku
 
 Features: 
