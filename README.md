@@ -23,5 +23,7 @@ Features:
 Url:
 
   - https://goo.gl/zk98u6
+  
+You can register a new account, or use {username:"j", password:"p"} to test the site. 
 
   
