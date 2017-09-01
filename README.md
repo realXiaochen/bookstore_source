@@ -1,5 +1,9 @@
 # Xiaochen's Bookstore
 
+Site:
+
+  - https://goo.gl/zk98u6
+  
 Tools: 
   
   - Angular 2
@@ -20,9 +24,6 @@ Features:
   - checkout
   - payment (fake)
   
-Url:
-
-  - https://goo.gl/zk98u6
   
 You can register a new account, or use {username:"j", password:"p"} to test the site. 
 
