@@ -2,7 +2,7 @@
 
 Site:
 
-  - https://goo.gl/zk98u6 (please wait about 10 secs for the heroku to start the app)
+  - https://goo.gl/zk98u6 (please wait about 15 secs for the heroku to start the app)
   
 Tools: 
   
